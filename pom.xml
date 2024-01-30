@@ -1,7 +1,0 @@
-<project>
-    <groupId>com.example.testinglibrary</groupId>
-    <artifactId>Testing Library</artifactId>
-    <version>1.0</version>
-    <packaging>aar</packaging>
-    <url>http://maven.apache.org</url>
-</project>
